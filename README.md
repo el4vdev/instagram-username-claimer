@@ -3,7 +3,6 @@
 
   # Instagram Username Auto Claimer
 
-  <h1><b>‼️ NEW DISCORD SERVER! JOIN <a href="https://discord.gg/KRjZ58MfDD">HERE</a>! ‼️</b></h1>
   Fast and multi-threaded script to automatically claim targeted username. Click <a href="https://github.com/useragents/Instagram-Username-Auto-Claimer/issues">here</a> to report bugs.
   
   ![image](https://user-images.githubusercontent.com/103281345/162508708-273f70d1-187c-4bf5-be0d-82ddf2051228.png)
