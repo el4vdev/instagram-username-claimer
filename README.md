@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 
-  # Instagram Username Auto Claimer UPDATED 5.5.24
+  # Instagram Username Auto Claimer UPDATED 5.7.24
 
   Fast and multi-threaded script to automatically claim targeted username. Click <a href="https://github.com/useragents/Instagram-Username-Auto-Claimer/issues">here</a> to report bugs.
   
